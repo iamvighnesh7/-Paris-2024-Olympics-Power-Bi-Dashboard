@@ -1,13 +1,22 @@
-# **Paris 2024 Olympic Dashboard**
+# **Paris 2024 Olympic Dashboard 🏅📊**
 
-## **Overview**
-The primary objective of this capstone project is to analyse the Paris 2024 Olympics dataset to derive 
-meaningful insights and trends. By addressing key problem statements, the project aims to provide a 
-comprehensive understanding of athlete participation, gender dynamics, country performances, and 
-the overall impact of the Paris 2024 Olympic Games.
-The analysis will focus on uncovering patterns related to medal distributions, emerging sports, and the 
-global representation of nations in this edition of the Olympics, while also highlighting how the Paris 
-2024 Olympics contribute to the legacy of the Olympic Games.
+The primary objective of this capstone project is to analyze the Paris 2024 Olympics dataset to derive meaningful insights and trends. By addressing key problem statements, the project aims to provide a comprehensive understanding of:
+
+- 🏃‍♂️ Athlete participation
+
+- 👩‍🦰👨‍🦱 Gender dynamics
+
+- 🌍 Country performances
+
+The analysis will focus on uncovering patterns related to:
+
+- 🥇 Medal distributions
+  
+- 🏌️‍♂️ Emerging sports
+  
+- 🌎 Global representation of nations
+  
+This project also highlights how the Paris 2024 Olympics contribute to the legacy of the Olympic Games. 🕊️✨
 
 ## **Output**
 **1.Home Page**
